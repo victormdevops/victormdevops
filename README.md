@@ -47,7 +47,7 @@ My passion lies in building efficient workflows that bridge **development and op
 **DevOps Stack:** 🐳 Docker · ⚡ GitHub Actions · ☁️ Render (PaaS)  
 **Backend:** Go (Gin)  
 📌 _A real-time chat application with containerized deployment and automated CI/CD._  
-🔗 [View Repository](https://github.com/victormuthomi/chat-system)
+🔗 [View Repository](https://github.com/victormdevops/chat-system)
 
 ---
 
@@ -57,7 +57,7 @@ My passion lies in building efficient workflows that bridge **development and op
 **Backend:** Node.js · Express  
 **Frontend:** React (PERN)  
 📌 _Shift scheduling & workflow management tool deployed on a VPS using Docker Compose._  
-🔗 [View Repository](https://github.com/victormuthomi/rotaflow)
+🔗 [View Repository](https://github.com/victormdevops/rotaflow)
 
 ---
 
@@ -67,7 +67,7 @@ My passion lies in building efficient workflows that bridge **development and op
 **Backend:** Node.js · Express  
 **Frontend:** React (MERN)  
 📌 _Online voting platform with monitoring (Prometheus + Grafana) for real-time metrics._  
-🔗 [View Repository](https://github.com/victormuthomi/tuvote)
+🔗 [View Repository](https://github.com/victormdevops/tuvote)
 
 ---
 
@@ -77,7 +77,7 @@ My passion lies in building efficient workflows that bridge **development and op
 **Backend:** Go (Gin)  
 **Frontend:** React  
 📌 _Developer social platform deployed on Kubernetes clusters with Helm for package management._  
-🔗 [View Repository](https://github.com/victormuthomi/gitconnect)
+🔗 [View Repository](https://github.com/victormdevops/gitconnect)
 
 ---
 
@@ -87,14 +87,14 @@ My passion lies in building efficient workflows that bridge **development and op
 **Backend:** Node.js (MERN)  
 **Frontend:** React  
 📌 _Streaming platform showcasing Kubernetes orchestration, monitoring, and CI/CD pipelines._  
-🔗 [View Repository](https://github.com/victormuthomi/razorbill)
+🔗 [View Repository](https://github.com/victormdevops/razorbill)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victormuthomi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormuthomi&layout=compact&theme=radical)
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victormdevops&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormdevops&layout=compact&theme=radical)
 
 ---
 
