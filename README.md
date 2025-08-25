@@ -14,6 +14,8 @@ My passion lies in building efficient workflows that bridge **development and op
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
@@ -83,10 +85,10 @@ My passion lies in building efficient workflows that bridge **development and op
 
 ### 5️⃣ RazorBill (Streaming Platform)
 
-**DevOps Stack:** ☸️ Kubernetes (Minikube · K3d) · 🐳 Docker · ⚡ GitHub Actions · 📊 Prometheus + Grafana · ⎈ Helm  
+**DevOps Stack:** ☸️ Kubernetes (Minikube · K3d) · 🐳 Docker · ⚡ GitHub Actions · 📊 Prometheus + Grafana · ⎈ Helm · 🛠️ Terraform · ⚙️ Ansible  
 **Backend:** Node.js (MERN)  
 **Frontend:** React  
-📌 _Streaming platform showcasing Kubernetes orchestration, monitoring, and CI/CD pipelines._  
+📌 _Streaming platform showcasing Kubernetes orchestration, infrastructure provisioning with **Terraform**, configuration automation with **Ansible**, monitoring, and CI/CD pipelines._  
 🔗 [View Repository](https://github.com/victormdevops/razorbill)
 
 ---
